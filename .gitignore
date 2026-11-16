@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+
+# Keep CVs you test with out of the repo
+*.pdf
+*.docx
+*.doc
+*.tex
