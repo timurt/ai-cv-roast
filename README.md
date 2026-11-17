@@ -9,6 +9,19 @@ The same rules apply to every CV, whatever the country: about 1 page per 10 year
 
 The skill never rewrites your CV or invents facts. It tells you what to change and asks for the numbers it needs.
 
+## Example
+**Before:**
+> Made one of the major contributions to successful ISO 270001 certification by implementing LDAP-based access in project X. The certification bolstered trust and attracted a higher number of enterprise clients
+
+**Verdict:** ✏️ sharpen
+- **Weak opener:** "Made one of the major contributions" is vague, and an interviewer will ask what exactly you did.
+- **Vague quantifier:** "a higher number of" means a number is missing.
+- **Typo:** "270001" should be 27001.
+- **Two sentences:** a bullet should be one.
+
+**After** (your rewrite, based on the feedback):
+> Implemented LDAP-based access control in project X, a key requirement for its ISO 27001 certification.
+
 ## Requirements
 - Claude Code
 - Python 3
